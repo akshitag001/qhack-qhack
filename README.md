@@ -1,11 +1,17 @@
 # PennyLane Coding Challenges: Questions, Solutions and Notes
 
-A structured collection of PennyLane quantum coding challenge solutions, explanatory notes, and benchmarks.
+<p align="center">
+  <img src="./assets/qhack2026_banner.png" alt="QHack 2026 Quantum Coding Championship" width="100%" />
+</p>
+
+A structured collection of PennyLane quantum coding challenge solutions, explanatory notes, and benchmarks from the **QHack 2026 Quantum Coding Championship**.
 
 ## Repository Layout
 
 ```
 qhack-qhack/
+├── assets/
+│   └── qhack2026_banner.png                   # Championship banner
 ├── README.md                                  # Index & overview of all challenges
 ├── 01-pauli-word-measurement/
 │   ├── README.md                              # Problem breakdown, theory & results
